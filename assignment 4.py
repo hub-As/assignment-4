@@ -82,7 +82,7 @@ f_st=frozenset(st)
 print(f_st)
 #part f
 print("maximum value is ",max(f_st))
-print("its hash value is ",hash(max(f_st))
+print("its hash value is ",hash(max(f_st)))
 
 
 
